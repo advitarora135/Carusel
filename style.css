@@ -1,0 +1,29 @@
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+/* Tier 1 */
+#myCarousel {
+    background-color: coral;
+    width: 900px;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+
+/* Tier 2 */
+#myCarousel2 {
+    background-color: cyan;
+    width: 900px;
+}
+
+#myCarousel2 img {
+    height: 300px;
+    margin-top: 35px;
+}
